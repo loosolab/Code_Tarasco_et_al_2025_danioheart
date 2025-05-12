@@ -1,0 +1,113 @@
+"01":
+  adata_output_dir: "../adatas/"
+  log_file: "../logs/01_log.txt"
+  overwrite_log: True
+
+"02":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/02_QC/"
+  log_file: "../logs/02_log.txt"
+  overwrite_log: True
+
+"03":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/03_batch_correction/"
+  log_file: "../logs/03_log.txt"
+  overwrite_log: True
+
+"04":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/04_clustering/"
+  log_file: "../logs/04_log.txt"
+  overwrite_log: True
+
+"05":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05_markers/"
+  table_dir: "../tables/05_markers/"
+  log_file: "../logs/05_log.txt"
+  overwrite_log: True
+
+"05a":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05a_subtype/"
+  table_dir: "../tables/05a_subtype/"
+  log_file: "../logs/05a_log.txt"
+  overwrite_log: True
+  
+"05b":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05b_cardio/"
+  table_dir: "../tables/05b_cardio/"
+  log_file: "../logs/05b_log.txt"
+  overwrite_log: True
+  
+"05c":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05c_endo/"
+  table_dir: "../tables/05c_endo/"
+  log_file: "../logs/05c_log.txt"
+  overwrite_log: True
+
+"05d":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05d_others/"
+  table_dir: "../tables/05d_others/"
+  log_file: "../logs/05d_log.txt"
+  overwrite_log: True
+
+"05e":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05e_rbc/"
+  table_dir: "../tables/05e_rbc/"
+  log_file: "../logs/05e_log.txt"
+  overwrite_log: True
+
+"05f":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05f_epi/"
+  table_dir: "../tables/05f_epi/"
+  log_file: "../logs/05f_log.txt"
+  overwrite_log: True
+
+"05g":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05g_fib/"
+  table_dir: "../tables/05g_fib/"
+  log_file: "../logs/05g_log.txt"
+  overwrite_log: True
+  
+"05h":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/05h_tcf/"
+  table_dir: "../tables/05h_tcf/"
+  log_file: "../logs/05h_log.txt"
+  overwrite_log: True
+
+"06":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/06_velocity/"
+  table_dir: "../tables/06_velocity/"
+  log_file: "../logs/06_velocity.txt"
+  overwrite_log: True
+
+"11":
+  adata_input_dir: "../adatas/"
+  adata_output_dir: "../adatas/"
+  figure_dir: "../figures/11_receptor_ligand/"
+  table_dir: "../tables/11_receptor_ligand/"
+  log_file: "../logs/11_log.txt"
+  overwrite_log: True
